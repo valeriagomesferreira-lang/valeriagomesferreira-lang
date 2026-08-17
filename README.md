@@ -33,7 +33,9 @@ Objetivo....: Conquistar minha primeira oportunidade em Tecnologia
 💻 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,python,c,git,github,vscode,mysql" />
+
+<img src="https://raw.githubusercontent.com/valeriagomesferreira-lang/valeriagomesferreira-lang/output/github-snake.svg" alt="Snake animation" />
+
 </div>
 
 ⸻
