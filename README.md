@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/valeriagomesferreira-lang/valeriagomesferreira-lang/main/IMG_1568.jpeg" width="180" alt="Foto de perfil">
-
-</div>
-
 👩🏻‍💻 VALÉRIA GOMES FERREIRA
 
 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
