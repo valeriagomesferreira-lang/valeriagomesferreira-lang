@@ -33,7 +33,9 @@ Objetivo....: Conquistar uma oportunidade de estágio em Tecnologia
 💻 Tech Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,python,c,git,github,vscode,mysql" alt="Tecnologias">
+
 </div>
 
 ⸻
