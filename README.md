@@ -94,9 +94,10 @@ $ current-goals
 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=valeriagomesferreira-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriagomesferreira-lang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=valeriagomesferreira-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+
+</div> 
 
 ⸻
 
@@ -108,10 +109,12 @@ $ current-goals
 
 ⸻
 
-🏆 GitHub Trophies
+🏆 GitHub Trophies 
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=valeriagomesferreira-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+
 </div>
 
 ⸻
