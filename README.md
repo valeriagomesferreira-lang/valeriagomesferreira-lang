@@ -4,7 +4,12 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Valéria!+👋;Estudante+de+ADS+💻;Aprendendo+e+construindo+projetos+🚀;Meu+futuro+é+na+Tecnologia+✨" alt="Typing Animation">
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=valeriagomesferreira-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=valeriagomesferreira-lang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
 </div>
 
 ⸻
@@ -95,9 +100,9 @@ $ current-goals
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=valeriagomesferreira-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=valeriagomesferreira-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 
-</div> 
+</div>
 
 ⸻
 
