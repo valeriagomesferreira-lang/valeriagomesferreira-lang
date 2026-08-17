@@ -143,9 +143,15 @@ $ current-goals
 🌐 Conecte-se comigo
 
 <div align="center">
+
 <a href="https://github.com/valeriagomesferreira-lang">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<a href="https://www.linkedin.com/in/val%C3%A9ria-gomes-723355385/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
 </div>
 
 ⸻
