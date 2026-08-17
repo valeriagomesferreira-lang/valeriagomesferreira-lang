@@ -2,11 +2,9 @@
 
 👩🏻‍💻 VALÉRIA GOMES FERREIRA
 
-Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistemas
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Valéria!+%F0%9F%91%8B;Estudante+de+ADS+%F0%9F%92%BB;Apaixonada+por+tecnologia+%F0%9F%9A%80;Construindo+meu+futuro+na+Tecnologia+%E2%9C%A8" alt="Typing Animation" />
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00f7ff&height=120&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+a+Valéria!+👋;Estudante+de+ADS+💻;Aprendendo+e+construindo+projetos+🚀;Meu+futuro+é+na+Tecnologia+✨" alt="Typing Animation">
 </div>
 
 ⸻
@@ -14,28 +12,28 @@ Desenvolvedora em formação | Estudante de Análise e Desenvolvimento de Sistem
 🧠 Sobre Mim
 
 > iniciando sistema...
-> carregando perfil da desenvolvedora...
+> carregando perfil...
 > status: ONLINE ✓
 Nome........: Valéria Gomes Ferreira
 Curso.......: Análise e Desenvolvimento de Sistemas
 Foco........: Desenvolvimento de Software
 Status......: Desenvolvedora em formação
-Objetivo....: Conquistar minha primeira oportunidade em Tecnologia
+Objetivo....: Conquistar uma oportunidade de estágio em Tecnologia
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha trajetória na área de Tecnologia.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-💻 Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, banco de dados e ferramentas utilizadas no desenvolvimento de software.
+💻 Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, banco de dados e Git/GitHub.
 
-🚀 Meu objetivo é continuar aprendendo, colocar meus conhecimentos em prática e conquistar uma oportunidade de estágio em Tecnologia.
+🚀 Gosto de aprender na prática, criando projetos e evoluindo meus conhecimentos a cada novo desafio.
+
+🎯 Atualmente estou buscando uma oportunidade de estágio na área de Tecnologia para colocar meus conhecimentos em prática e continuar aprendendo.
 
 ⸻
 
 💻 Tech Stack
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/valeriagomesferreira-lang/valeriagomesferreira-lang/output/github-snake.svg" alt="Snake animation" />
-
+<img src="https://skillicons.dev/icons?i=html,css,python,c,git,github,vscode,mysql" alt="Tecnologias">
 </div>
 
 ⸻
@@ -43,29 +41,33 @@ Objetivo....: Conquistar minha primeira oportunidade em Tecnologia
 🛠️ Ferramentas
 
 <div align="center">
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1">
 </div>
 
 ⸻
 
 🚀 Projeto em Destaque
 
-🎫 Interface de Eventos
+🎫 Projeto Interface Eventos
 
 Projeto desenvolvido para praticar HTML e CSS, criando uma interface para gerenciamento de eventos.
 
-Funcionalidades desenvolvidas:
+Funcionalidades
 
-* 🔐 Tela de Login
+* 🔐 Login
 * 📝 Cadastro
 * 📅 Criação de eventos
 * 👀 Visualização de detalhes
-* ✏️ Edição de evento
-* 🗑️ Exclusão de evento
+* ✏️ Edição de eventos
+* 🗑️ Exclusão de eventos
 * 📱 Interface responsiva
 
 <div align="center">
 <a href="https://github.com/valeriagomesferreira-lang/projeto-interface-eventos">
-<img src="https://img.shields.io/badge/VER%20PROJETO-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/VER%20PROJETO-00F7FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </div>
 
@@ -77,20 +79,21 @@ $ whoami
 Valéria Gomes Ferreira
 $ current-goals
 [✓] Estudar Análise e Desenvolvimento de Sistemas
-[✓] Desenvolver projetos para meu portfólio
+[✓] Criar projetos para meu portfólio
 [✓] Aprender Git e GitHub
-[→] Aprofundar conhecimentos em Python
-[→] Evoluir em HTML e CSS
-[→] Desenvolver conhecimentos em banco de dados
-[→] Conquistar uma oportunidade de estágio em Tecnologia
+[→] Evoluir em Python
+[→] Aprimorar HTML e CSS
+[→] Aprender mais sobre banco de dados
+[→] Desenvolver novas aplicações
+[→] Conquistar um estágio em Tecnologia
 
 ⸻
 
 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeriagomesferreira-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriagomesferreira-lang&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=valeriagomesferreira-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriagomesferreira-lang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ⸻
@@ -98,7 +101,7 @@ $ current-goals
 🔥 GitHub Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=valeriagomesferreira-lang&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=valeriagomesferreira-lang&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
 ⸻
@@ -106,7 +109,7 @@ $ current-goals
 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=valeriagomesferreira-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=valeriagomesferreira-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 ⸻
@@ -114,29 +117,24 @@ $ current-goals
 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/valeriagomesferreira-lang/valeriagomesferreira-lang/output/github-snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/valeriagomesferreira-lang/valeriagomesferreira-lang/output/github-snake.svg" alt="Snake animation">
 </div>
 
 ⸻
 
-📈 Activity
+📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valeriagomesferreira-lang&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=valeriagomesferreira-lang&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
 ⸻
 
-🌐 Vamos nos conectar?
+🌐 Conecte-se comigo
 
 <div align="center">
 <a href="https://github.com/valeriagomesferreira-lang">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 
@@ -146,6 +144,4 @@ $ current-goals
 
 > Transformando aprendizado em código. 🚀
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 </div>
