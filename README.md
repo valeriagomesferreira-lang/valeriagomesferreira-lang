@@ -114,7 +114,9 @@ $ current-goals
 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/valeriagomesferreira-lang/valeriagomesferreira-lang/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/valeriagomesferreira-lang/valeriagomesferreira-lang/output/github-snake.svg" alt="Snake animation" />
+
 </div>
 
 ⸻
