@@ -68,16 +68,20 @@ Objetivo....: Conquistar uma oportunidade de estágio em Tecnologia
 
 Projeto desenvolvido para praticar HTML e CSS, criando uma interface para gerenciamento de eventos.
 
-Funcionalidades
+### ✨ Funcionalidades
 
-* 🔐 Tela de Login
-* 📝 Tela de Cadastro
-* 📅 Interface de eventos
-* 👀 Visualização de detalhes
-* ✏️ Tela de edição
-* 🗑️ Ação de exclusão com confirmação
-* 📱 Interface responsiva
-* 🔗 Navegação entre páginas
+<div align="left">
+
+- 🔐 Tela de Login
+- 📝 Tela de Cadastro
+- 📅 Interface de eventos
+- 👀 Visualização de detalhes
+- ✏️ Tela de edição
+- 🗑️ Ação de exclusão com confirmação
+- 📱 Interface responsiva
+- 🔗 Navegação entre páginas
+
+</div>
 
 <div align="center">
 <a href="https://github.com/valeriagomesferreira-lang/projeto-interface-eventos">
