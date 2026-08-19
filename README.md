@@ -70,13 +70,14 @@ Projeto desenvolvido para praticar HTML e CSS, criando uma interface para gerenc
 
 Funcionalidades
 
-* 🔐 Login
-* 📝 Cadastro
-* 📅 Criação de eventos
+* 🔐 Tela de Login
+* 📝 Tela de Cadastro
+* 📅 Interface de eventos
 * 👀 Visualização de detalhes
-* ✏️ Edição de eventos
-* 🗑️ Exclusão de eventos
+* ✏️ Tela de edição
+* 🗑️ Ação de exclusão com confirmação
 * 📱 Interface responsiva
+* 🔗 Navegação entre páginas
 
 <div align="center">
 <a href="https://github.com/valeriagomesferreira-lang/projeto-interface-eventos">
